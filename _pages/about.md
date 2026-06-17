@@ -34,6 +34,7 @@ I received my M.S. in Computer Science from the University of Virginia. Prior to
 My research interest includes but not limited to:
 
 - Mechanistic Interpretability
+- Human-AI Interaction
 - Trustworthy AI
 
 # 📝 Publications 
