@@ -19,9 +19,9 @@ redirect_from:
 
 # 💫 About Me
 
-My name is Han Yang. I am a first-year PhD student at the University of Virginia, coadvised by [Prof.Tianhao Wang](https://tianhao.wang/) and [Prof. Jundong Li](https://jundongli.github.io/).
+My name is Han Yang. I am now a first-year graduate student at the Texas A&M University, fortunately advised by [Prof.Zhiyuan Yu](https://zhiyuanyu.org/).
 
-I received my B.Eng in Cyber Security from Sichuan University in 2024. 
+I received my M.S. in Computer Science from the University of Virginia. Prior to that, I earned my B.Eng. in Cybersecurity from Sichuan University.
 
 <!--And I'm also honored to have been advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/) during my summer internship. -->
 
@@ -33,11 +33,8 @@ I received my B.Eng in Cyber Security from Sichuan University in 2024.
 
 My research interest includes but not limited to:
 
-- trustworthy AI, including
-  - adversarial machine learning
-  - robustness
-    
-- NLP
+- Mechanistic Interpretability
+- Trustworthy AI
 
 # 📝 Publications 
 
@@ -69,7 +66,8 @@ Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Undergraduate, Sichuan University
-- *2024.09 - now*, PhD, University of Virginia
+- *2024.08 - 2025.12*, Master, University of Virginia
+- *2026.09 - now*, Ph.D., Texas A&M University
 
 # 🎖 Honors and Awards
 - *2024.06* **Outstanding Graduate Student(Top 10%)**, Sichuan University
@@ -81,7 +79,7 @@ Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
 
 I love to listen to jpop and play video games in my spare time to balance my life and work.
 
-🎶 My favorite Japanese bands are **back number** and **Mr.Children**. And I also love a solo singer whose name is **Aimyon**. I am trying to learn Japanese so that I can sing the songs I love.
+🎶 My favorite Japanese bands are **back number** and **Mr.Children**. And I also love a solo singer whose name is **Aimyon**. I can speak a little Japanese (but just a little).
 
 🎮 My favorite game is **Ace Attorney**. Besides that, I love playing **The Legend of Zelda:BOTW** and **The Legend of Zelda:TOTK**.
 
