@@ -19,7 +19,7 @@ redirect_from:
 
 # 💫 About Me
 
-My name is Han Yang. I am now a first-year graduate student at the Texas A&M University, fortunately advised by [Prof.Zhiyuan Yu](https://zhiyuanyu.org/).
+My name is Han Yang. I am now a first-year Ph.D. student at the Texas A&M University, fortunately advised by [Prof.Zhiyuan Yu](https://zhiyuanyu.org/).
 
 I received my M.S. in Computer Science from the University of Virginia. Prior to that, I earned my B.Eng. in Cybersecurity from Sichuan University.
 
