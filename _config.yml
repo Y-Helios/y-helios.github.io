@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Han Yang"
   avatar           : "images/photo.jpg"
-  bio              : "University of Virginia"
-  location         : "Charlottesvile, VA, USA"
+  bio              : "Texas A&M University"
+  location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RlX6PDAAAAAJ"
-  email            : "guanlanlanlanlan@gmail.com"
+  email            : "hanyang@tamu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
